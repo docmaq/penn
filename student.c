@@ -1,6 +1,8 @@
 #include "student.h"
 #include <stdbool.h>
 
+/*This is the first Lab assignment of 311 */
+
 
 /* Lab- 1 Due by 11th Feb 2022
    Make sure your code looks clean
